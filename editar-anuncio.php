@@ -93,6 +93,7 @@ if (isset($_GET['id']) && !empty($_GET['id'])) {
                             <img src="assets/images/anuncios/<?php echo $foto['url']; ?>" border="0" class="img-thumbnail">
                             <br>
                             <a href="excluir-foto.php?id=<?php echo $foto['id']; ?>" class="btn btn-default">Excluir Imagem</a>
+                            
                         </div>
                     <?php } ?>
                 </div>
