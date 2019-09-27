@@ -2,7 +2,7 @@
 Projeto feito para testar conhecimentos com foco em back-end.
 
 ## Tecnologias
-Tecnolgias usadas no projeto:
+Tecnologias usadas no projeto:
 - HTML5
 - CSS3
 - Bootstrap 3.3.7
