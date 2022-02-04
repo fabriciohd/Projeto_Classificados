@@ -1,5 +1,5 @@
 # Classificados
-Projeto feito para testar conhecimentos com foco em back-end.
+Projeto para anúncio de produtos e serviços.
 
 ## Tecnologias
 Tecnologias usadas no projeto:
